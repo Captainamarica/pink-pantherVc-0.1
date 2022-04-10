@@ -1,2 +1,2 @@
 
-[Deploy](Heroku.com/deploy)
+[Deploy](https://Heroku.com/deploy)

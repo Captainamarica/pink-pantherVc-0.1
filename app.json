@@ -1,7 +1,7 @@
 {
-    "name": "Pink Music Bot",
+    "name": "𝙿𝙸𝙽𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁 ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph/file/9b030740eb23d49d58f04.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "18895284",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "3091d00186aa25b92a9b791dcebd59de",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,27 +30,27 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5334563722:AAEZDlquPjBaJsa9jKOVrlKGqyrZgN0FdMc",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://Navanjana:Navanjana@cluster0.zdnpe.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "𝙿𝙸𝙽𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5381705557",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQAQIvl6k9OPfe-G3LTXKhQ85_nWeDMS6lr14h7mTCf2g_1wmlp7u_njxbXuZTZ3BWDoQW-Xfqn05rRK5Pq4_x-BgCnEub0qNSCCHfNI2OPku-qP37vweajXCmIXZFWqWWQRp5q2gFjDRFa6NYFEFRYYAEDPKYTNw7ykDt-Bb1BJHsYmRyLnCj0xSKKIsAUq9c0-FKGVdHv3iwtv7awtzDfc3toJL1dSTCNbqsKIpittGJIMhzmmWjqEtRGukMjF4GN9c5m-hKuYRB8JdnAnwaK2X6ZzDNJ1rmYYZEf0M_gGNyp5USzAKF3vJNG57i4NIfpn7QVTQZaBIUDp9tehtxUlAAAAAUDGT1UA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,12 +65,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001602093264",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "Don't Change This, Leave as it is",
-        "value": "https://github.com/Prince301102/Tiana-Music",
+        "value": " https://github.com/Captainamarica/pink-pantherVc-0.1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
